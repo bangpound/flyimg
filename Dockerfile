@@ -1,4 +1,4 @@
-FROM flyimg/docker-app
+FROM bangpound/flyimg-docker-app:develop
 
 COPY .    /var/www/html
 
